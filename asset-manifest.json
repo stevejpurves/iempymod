@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.14b14805.css",
-    "main.js": "/static/js/main.70bbdc1d.js",
+    "main.js": "/static/js/main.5be8223f.js",
     "static/js/209.4b48030c.chunk.js": "/static/js/209.4b48030c.chunk.js",
     "static/js/68.70565d37.chunk.js": "/static/js/68.70565d37.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -95,6 +95,6 @@
   },
   "entrypoints": [
     "static/css/main.14b14805.css",
-    "static/js/main.70bbdc1d.js"
+    "static/js/main.5be8223f.js"
   ]
 }
